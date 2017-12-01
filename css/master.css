@@ -2,12 +2,36 @@
 body {
   background-color: #f5f5f5;
 }
-
-.card-title {
+#my-card-text {
+  font-size: 1.4rem;
   z-index: 1;
   padding: 16px;
+  bottom: -12%
 }
-
 .small-text {
+  font-size: .9rem;
+}
+.card.horizontal .card-image img {
+    border-radius: 2px 0 0 2px;
+    max-width: 100%;
+    min-width: 75%;
+
+    margin: 5%;
+}
+.horizontal .card-content p {
   font-size: 1rem;
+}
+.tiny {
+  color: grey;
+
+}
+.author-position p{
+  padding-left: 10px;
+  display: inline;
+
+}
+.author-position {
+  bottom: 5%;
+  right: 21%;
+  width: 180px;;
 }
