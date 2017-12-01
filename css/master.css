@@ -35,3 +35,22 @@ body {
   right: 21%;
   width: 180px;;
 }
+
+
+@media screen and (min-width: 601px) {
+  #my-card-text {
+    bottom: 10%;
+    font-size: 2rem;
+  }
+
+  .author-position {
+    margin: 0 auto;
+  }
+
+}
+
+@media only screen and (min-width: 993) {
+  .card {
+    flex-grow: 1;
+  }
+}
