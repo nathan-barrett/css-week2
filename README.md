@@ -19,7 +19,7 @@ A re-creation of a portion of 'think with Google' site using materialze framewor
 
 
 * or access gh-pages assigned to this project:
-* nathan-barrett.github.io/think
+* nathan-barrett.github.io/css-week2
 
 ## Support and Contact Details
 * For any questions please reach out usuing details below:
